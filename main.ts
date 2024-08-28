@@ -16,3 +16,4 @@ let mySprite = sprites.create(img`
     8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
     8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
     `, SpriteKind.Player)
+info.setScore(0)

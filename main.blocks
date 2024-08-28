@@ -15,4 +15,4 @@
 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
-`</field><data>{"commentRefs":[],"fieldData":{"img":"536on6DYJn`6-P~@=8~)"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="D0%)VJ;x`F4z!v(p-+T1"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
+`</field><data>{"commentRefs":[],"fieldData":{"img":"536on6DYJn`6-P~@=8~)"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="D0%)VJ;x`F4z!v(p-+T1"><field name="MEMBER">Player</field></shadow></value></block></value><next><block type="hudsetScore" id="V9so|d.w:!~*4@_%EhC8"><value name="value"><shadow type="math_number" id="eF%Gt%~|M#smpGq(HmP3"><field name="NUM">0</field></shadow></value></block></next></block></statement></block></xml>
