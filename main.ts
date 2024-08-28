@@ -17,3 +17,5 @@ let mySprite = sprites.create(img`
     8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 
     `, SpriteKind.Player)
 info.setScore(0)
+let mysp = sprites.create(assets.image`myImage`, SpriteKind.Player)
+
